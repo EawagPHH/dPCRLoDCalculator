@@ -1,6 +1,6 @@
 # dPCRLoDCalculator
 
-This Rshiny app allows you to easily calculate LoD using two models. Simply upload your QX600 data .csv with the "Sample Description 1" column filled with estimated expected concentrations of your individual measurements.
+This Rshiny app allows you to easily calculate LoD using two models. Simply upload your QX600 data .csv with the "Sample Description 1" column filled with estimated expected concentrations of your individual measurements. https://charliegan1.shinyapps.io/dPCRLoDCalculator/
 
 # **Understanding Limit of Detection (LoD)**
 
